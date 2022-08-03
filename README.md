@@ -13,7 +13,7 @@ Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve say
         for (int i = 1; i < number; i++) {
 
             if (number % i == 0) {
-                total = i;
+         
                 result += i;
             }
         }
